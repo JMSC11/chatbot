@@ -1,0 +1,326 @@
+{
+    "intents": [
+        {
+            "tag": "evaluacion_competencias",
+            "patterns": [
+              "¿Cómo es la evaluación de competencias?",
+              "¿En qué consiste la evaluación de competencias?",
+              "¿Qué implica la evaluación de habilidades y competencias?",
+              "¿Puede explicarme el proceso de evaluación de competencias?",
+              "¿Cuál es el método para evaluar competencias?",
+              "¿Qué se espera en una evaluación de competencias?",
+              "¿Cómo se realiza una valoración de competencias?",
+              "¿Qué se mide en la evaluación de competencias?",
+              "¿Cuál es la naturaleza de la evaluación de competencias?",
+              "¿Qué se espera que demuestre una persona en una evaluación de competencias?"
+            ],
+            "responses": [
+              "La evaluación de competencias consiste en demostrar que una persona cuenta con las habilidades y destrezas especificadas en un estándar de competencia. Un evaluador certificado aplica un instrumento en el que califica desempeños, productos, conocimientos y actitudes. Si alguien quiere ser evaluado como tutor virtual, debe mostrar habilidades en manejar sesiones, interactuar con participantes y operar herramientas online. Existen catálogos para consultar más sobre estándares de competencia.",
+              "Una evaluación de competencias es un proceso donde se verifica si alguien tiene las habilidades y capacidades estipuladas en un criterio de competencia. Esto es hecho por un evaluador calificado que utiliza herramientas de medición. Por ejemplo, un tutor de cursos online deberá evidenciar su destreza en la conducción de sesiones virtuales, el trato a los usuarios y la gestión de herramientas digitales. Existen catálogos específicos donde se pueden revisar estos estándares.",
+              "Evaluar competencias implica medir y confirmar si un individuo posee las habilidades requeridas según un estándar definido. Un experto en la materia se encargará de calificar distintos aspectos como el desempeño, resultados, conocimiento y comportamiento. Para ser evaluado en tutorías en línea, por ejemplo, uno debe demostrar dominio en dirigir sesiones, relacionarse con los estudiantes y usar adecuadamente plataformas digitales.",
+              "El proceso de evaluación de competencias busca comprobar si alguien cumple con las habilidades y destrezas detalladas en un estándar. A través de herramientas específicas, un evaluador calificado mide distintas áreas. Por ejemplo, un potencial tutor online necesita probar su capacidad en la gestión de clases, la interacción con estudiantes y el manejo de tecnologías de la información.",
+              "El método de evaluación de competencias busca asegurar que alguien cumpla con las destrezas y habilidades definidas en un estándar específico. Utilizando distintas herramientas, un experto evalúa diversos aspectos. Un tutor en línea, como ilustración, deberá evidenciar su destreza en la conducción de clases, su trato al alumnado y su competencia en herramientas virtuales.",
+              "En una evaluación de competencias, se espera que el individuo muestre sus habilidades y destrezas conforme a un estándar específico. Un profesional en el área evaluará distintos aspectos mediante herramientas adecuadas. Un tutor virtual, como ejemplo, tendrá que comprobar su habilidad en las sesiones online, su capacidad de interacción y su manejo de herramientas digitales.",
+              "La valoración de competencias se orienta a confirmar si una persona detenta las habilidades y destrezas mencionadas en un criterio de competencia. Mediante instrumentos específicos, un especialista evaluará diversos elementos. Si tomamos como referencia a un tutor de cursos en línea, deberá comprobar su eficacia en la conducción de clases, su interacción con alumnos y su habilidad con herramientas en línea.",
+              "Al evaluar competencias, se mide si alguien tiene las habilidades y capacidades de acuerdo con un estándar preestablecido. Un evaluador certificado se encarga de medir desempeños, resultados y comportamientos. Por citar un caso, un tutor de sesiones online deberá mostrar su capacidad para guiar las clases, interactuar adecuadamente y operar plataformas digitales.",
+              "La naturaleza de la evaluación de competencias es determinar si alguien cumple con las destrezas y habilidades que un estándar específico demanda. Un experto certificado, a través de herramientas específicas, evaluará diferentes aspectos. Para ser más claros, si alguien quiere ser evaluado como tutor online, debe evidenciar sus habilidades en la conducción de sesiones, en el trato a estudiantes y en el uso de plataformas digitales.",
+              "En una evaluación de competencias, se espera que el participante demuestre tener las destrezas y habilidades que un criterio específico estipula. Un evaluador con certificación medirá aspectos como desempeño y resultados. Como ejemplo, un tutor de cursos online tendrá que mostrar su destreza en las sesiones, en el trato a alumnos y en el uso de herramientas digitales."
+            ]
+          },
+          {
+            "tag": "estandar_competencias",
+            "patterns": [
+              "¿Qué es un estándar de competencias?",
+              "¿En qué consiste un estándar de competencias?",
+              "¿Puedes explicar qué es un estándar de competencias?",
+              "¿Cuál es el propósito de un estándar de competencias?",
+              "¿Cómo se define un estándar de competencias?",
+              "¿Qué información contiene un estándar de competencias?",
+              "¿Qué abarca un estándar de competencias?",
+              "¿Para qué sirve un estándar de competencias?",
+              "¿Qué se describe en un estándar de competencias?",
+              "¿Qué significa estándar de competencias?"
+            ],
+            "responses": [
+              "Un estándar de competencias es un documento en el que se describen las destrezas, habilidades, conocimientos y actitudes que una persona debe demostrar para obtener un certificado. En el CONOCER hay alrededor de 1,300 estándares para sectores como educación, servicios, comunicación y más. Si quieres saber más sobre los estándares disponibles, puedes visitar https://conocer.gob.mx/renec-registro-nacional-estandares-competencia/ para ver el catálogo general.",
+              "Un estándar de competencias es una especificación escrita donde se detallan las habilidades, conocimientos y actitudes que un individuo necesita mostrar para ser certificado. Existen aproximadamente 1,300 estándares en el CONOCER que cubren áreas como educación, comercio y construcción. Para más información sobre los estándares, se puede consultar el catálogo en https://conocer.gob.mx/renec-registro-nacional-estandares-competencia/.",
+              "Se denomina estándar de competencias al documento que enumera y detalla las habilidades, destrezas, conocimientos y comportamientos que una persona debe evidenciar para recibir un certificado. Hay cerca de 1,300 de estos estándares en el CONOCER, abarcando sectores variados como comunicación y deporte. Puedes obtener más detalles de estos estándares en https://conocer.gob.mx/renec-registro-nacional-estandares-competencia/.",
+              "Un estándar de competencias es una guía que establece las capacidades, conocimientos y actitudes que alguien debe poseer y demostrar para ser certificado. El CONOCER cuenta con alrededor de 1,300 estándares que cubren distintos campos como transporte y minería. Si estás interesado, el catálogo completo de estándares está disponible en https://conocer.gob.mx/renec-registro-nacional-estandares-competencia/.",
+              "Se refiere a un estándar de competencias cuando hablamos de un documento que define las habilidades, destrezas, actitudes y saberes que un individuo debe manifestar para obtener una certificación. En el CONOCER, existen cerca de 1,300 estándares abarcando sectores como el deporte, construcción y comunicación. Puedes revisar el listado de estos estándares en https://conocer.gob.mx/renec-registro-nacional-estandares-competencia/.",
+              "El término estándar de competencias hace referencia a un documento oficial que especifica las destrezas, conocimientos y comportamientos que alguien debe exhibir para ser certificado en una área específica. Actualmente, el CONOCER dispone de aproximadamente 1,300 estándares, abarcando áreas desde educación hasta construcción. El catálogo completo puede consultarse en https://conocer.gob.mx/renec-registro-nacional-estandares-competencia/.",
+              "Un estándar de competencias describe, mediante un documento, las habilidades y conocimientos esenciales que una persona necesita mostrar para recibir un certificado. Hay alrededor de 1,300 estándares en el CONOCER que cubren diversos sectores como minería, comercio y educación. El listado completo de estos estándares está disponible en https://conocer.gob.mx/renec-registro-nacional-estandares-competencia/.",
+              "Un estándar de competencias es una especificación donde se enlistan las habilidades, actitudes y conocimientos que un individuo debe poseer y demostrar para lograr una certificación. Existen cerca de 1,300 de estos estándares en el CONOCER, relacionados con campos variados como la comunicación y el deporte. Para más información, el catálogo general puede ser consultado en https://conocer.gob.mx/renec-registro-nacional-estandares-competencia/.",
+              "Es un documento que establece las habilidades, destrezas y conocimientos que alguien debe tener y mostrar para ser certificado en un área específica. El CONOCER cuenta con cerca de 1,300 estándares que abarcan sectores como servicios, comunicación y construcción. Para más detalles sobre los estándares disponibles, puedes visitar https://conocer.gob.mx/renec-registro-nacional-estandares-competencia/."
+            ]
+          },
+          {
+            "tag": "inicio_proceso_evaluacion",
+            "patterns": [
+              "¿Cómo inicio mi proceso de evaluación?",
+              "¿Qué pasos debo seguir para comenzar mi proceso de evaluación?",
+              "¿Cuál es el procedimiento para iniciar mi evaluación?",
+              "¿Qué necesito hacer para comenzar con la evaluación?",
+              "¿Qué se requiere para dar inicio a la evaluación?",
+              "¿Dónde me dirijo para iniciar mi evaluación?",
+              "¿Cómo puedo comenzar con el proceso evaluativo?",
+              "¿Qué acciones debo tomar para empezar mi proceso de evaluación?",
+              "¿Cómo procedo para iniciar la evaluación?",
+              "¿Cuáles son los pasos iniciales para la evaluación?"
+            ],
+            "responses": [
+              "Para iniciar, necesita ponerse en contacto con la Entidad de Certificación y Evaluación del ILCE al correo certificacion_laboral@ilce.edu.mx indicando nombre completo, correo electrónico donde desea recibir la información, teléfono celular (opcional) y el estándar en el que desea certificarse. Cuando usted lo indique, se le pedirá que realice un diagnóstico en línea gratuito para determinar si ya puede iniciar su proceso de evaluación o identificar aquellos aspectos que necesita reforzar antes de iniciar la evaluación.",
+              "Para comenzar, es fundamental que se comunique con la Entidad de Certificación y Evaluación del ILCE a través del correo certificacion_laboral@ilce.edu.mx. Proporcione su nombre, email, número de teléfono celular (si lo desea) y el estándar para certificarse. Posteriormente, se le solicitará hacer un diagnóstico en línea sin costo para ver si está listo para la evaluación o si hay áreas que requieren atención.",
+              "Para arrancar con el proceso, debe comunicarse con la Entidad de Certificación y Evaluación del ILCE enviando un email a certificacion_laboral@ilce.edu.mx. Es necesario que proporcione su información como nombre completo, dirección de correo, teléfono y el estándar de certificación de interés. Seguidamente, se le indicará hacer un diagnóstico en línea gratuito para identificar si está preparado o necesita mejorar en ciertos aspectos.",
+              "El primer paso es contactar a la Entidad de Certificación y Evaluación del ILCE. Puede hacerlo enviando un email a certificacion_laboral@ilce.edu.mx con detalles como su nombre completo, correo, número de teléfono y el estándar de certificación deseado. Posterior a ello, se le solicitará realizar un diagnóstico en línea para determinar su preparación para la evaluación.",
+              "Debe acercarse a la Entidad de Certificación y Evaluación del ILCE mediante el email certificacion_laboral@ilce.edu.mx. Es esencial compartir detalles como su nombre, dirección de correo electrónico, teléfono (si lo prefiere) y el estándar que desea para certificarse. Luego, se le guiará a un diagnóstico online sin costo para evaluar si está listo o debe fortalecer ciertas áreas.",
+              "Inicie contactando a la Entidad de Certificación y Evaluación del ILCE al siguiente correo: certificacion_laboral@ilce.edu.mx. Deberá indicar su nombre completo, dirección de email, número de teléfono (si desea incluirlo) y el estándar para certificación. A continuación, se le propondrá llevar a cabo un diagnóstico en línea sin costo para valorar su preparación.",
+              "Comunique sus intenciones a la Entidad de Certificación y Evaluación del ILCE, enviando un correo a certificacion_laboral@ilce.edu.mx. En él, incluya su nombre completo, dirección de correo, número telefónico y el estándar que desea certificar. Posteriormente, deberá realizar un diagnóstico en línea para verificar si está listo o si hay áreas en las que necesita trabajar más.",
+              "Para empezar, contacte a la Entidad de Certificación y Evaluación del ILCE vía correo a certificacion_laboral@ilce.edu.mx. Proporcione detalles como su nombre, correo electrónico, teléfono y el estándar de su elección. A partir de ahí, se le pedirá realizar un diagnóstico online gratuito para evaluar su nivel de preparación para la evaluación.",
+              "Diríjase inicialmente a la Entidad de Certificación y Evaluación del ILCE a través de certificacion_laboral@ilce.edu.mx. Comparta su nombre completo, email, teléfono y el estándar en el que desea certificarse. Posteriormente, se le invitará a realizar un diagnóstico en línea sin coste para valorar si está apto para la evaluación o si necesita reforzar ciertos aspectos."
+            ]
+          },
+          {
+            "tag": "costo_diagnostico",
+            "patterns": [
+              "¿Tiene costo el diagnóstico?",
+              "¿Debo pagar por el diagnóstico?",
+              "¿Cuánto cuesta realizar el diagnóstico?",
+              "¿El diagnóstico tiene algún precio?",
+              "¿Se cobra por hacer el diagnóstico?",
+              "¿Hay que pagar algo por el diagnóstico?",
+              "¿El diagnóstico es de pago?",
+              "¿Hay algún coste asociado al diagnóstico?",
+              "¿El proceso de diagnóstico es gratuito?",
+              "¿Se incurre en algún gasto al realizar el diagnóstico?"
+            ],
+            "responses": [
+              "Por normatividad del CONOCER, el diagnóstico es gratuito.",
+              "Según las regulaciones del CONOCER, no hay costo por el diagnóstico.",
+              "El CONOCER establece que el diagnóstico no tiene costo alguno.",
+              "No, el diagnóstico es gratis de acuerdo con las normas del CONOCER.",
+              "De acuerdo con la normativa del CONOCER, el diagnóstico no tiene un precio.",
+              "Conforme a las directrices del CONOCER, el diagnóstico se ofrece de manera gratuita.",
+              "No hay que preocuparse por los costos, ya que el CONOCER indica que el diagnóstico es gratuito.",
+              "El diagnóstico no conlleva un costo según las pautas establecidas por el CONOCER.",
+              "Según las políticas del CONOCER, el diagnóstico se brinda sin coste.",
+              "De acuerdo con el CONOCER, no se cobra por el proceso de diagnóstico."
+            ]
+          },
+          {
+            "tag": "costo_proceso_evaluacion",
+            "patterns": [
+              "¿Cuál es el costo del proceso de evaluación?",
+              "¿Cuánto debo pagar por el proceso de evaluación?",
+              "¿Cómo se determina el precio de la evaluación?",
+              "¿El precio de la evaluación varía según el tiempo que dure?",
+              "¿Hay diferentes costos para diferentes evaluaciones?",
+              "¿El tiempo de evaluación influye en el costo?",
+              "¿Qué determina el precio de la evaluación?",
+              "¿Se cobra por hora en el proceso de evaluación?",
+              "¿Cómo se estima el costo de una evaluación específica?",
+              "¿Puede variar el costo de evaluación según el estándar de competencia?"
+            ],
+            "responses": [
+              "El costo de una evaluación puede variar dependiendo del número de horas que se requieren para realizar la evaluación de los diferentes estándares. Es importante recordar que el evaluador califica diversos aspectos de la persona y esto está basado en el estándar de competencia.",
+              "El precio de una evaluación está determinado por las horas necesarias para evaluar los estándares específicos. Por ejemplo, la certificación en el uso de procesador de textos podría durar alrededor de 2 horas.",
+              "El costo de la evaluación fluctúa según el tiempo que se necesite para evaluar los diferentes estándares. Algunas evaluaciones pueden durar solamente una o dos horas, mientras que otras pueden extenderse por cuatro horas o más.",
+              "El precio de la evaluación se estima según la duración requerida para evaluar los estándares pertinentes. Para certificarse en ciertas competencias, como el uso de un procesador de textos, la evaluación puede tomar aproximadamente 2 horas.",
+              "La tarifa de evaluación depende de cuántas horas se requieran para completar la evaluación de los estándares pertinentes. La duración varía según la competencia específica que esté siendo evaluada.",
+              "El monto a pagar por la evaluación está en función del tiempo necesario para evaluar los estándares aplicables. Por lo tanto, el costo puede variar ampliamente según la competencia a certificar.",
+              "El precio de la evaluación se establece según las horas requeridas para evaluar a una persona según los estándares de competencia aplicables. La duración y, por lo tanto, el costo, pueden variar dependiendo de la habilidad o conocimiento en cuestión.",
+              "El costo de la evaluación se determina por la cantidad de tiempo necesario para realizar la evaluación de los estándares correspondientes. Por ejemplo, certificarse en el uso básico de un procesador de textos puede llevar alrededor de 2 horas.",
+              "La cantidad a pagar por el proceso de evaluación varía según la duración requerida para evaluar los estándares de competencia relevantes. Algunas habilidades o competencias pueden requerir más tiempo para ser evaluadas adecuadamente.",
+              "El precio de la evaluación está influenciado por el tiempo que se necesita para evaluar los estándares específicos. Así, certificarse en determinadas competencias puede requerir diferentes duraciones y, por ende, diferentes costos."
+            ]
+          },
+          {
+            "tag": "duracion_proceso_evaluacion",
+            "patterns": [
+              "¿Cuánto tiempo dura un proceso de evaluación?",
+              "¿Cuál es la duración promedio de una evaluación?",
+              "¿Cuánto tiempo se necesita para completar un proceso de evaluación?",
+              "¿La duración de la evaluación varía según el estándar?",
+              "¿Dónde puedo consultar el tiempo que dura cada evaluación?",
+              "¿Cuánto tarda generalmente una evaluación de competencias?",
+              "¿Cómo sé cuánto tiempo llevará una evaluación específica?",
+              "¿Existen evaluaciones que tomen más tiempo que otras?",
+              "¿Hay un tiempo establecido para cada proceso de evaluación?",
+              "¿Dónde encuentro la duración de la evaluación para un estándar específico?"
+            ],
+            "responses": [
+              "Cada proceso de evaluación tiene diferente duración lo cual varía dependiendo del estándar de que se trate. Para obtener información específica sobre la duración de un estándar, se pueden revisar las fichas descriptivas disponibles en ILCE o en el Registro Nacional de Estándares de Competencia (RENEC) en el sitio del CONOCER.",
+              "La duración de cada evaluación varía según el estándar específico. Para más detalles, es recomendable consultar las fichas descriptivas en ILCE o el catálogo del CONOCER.",
+              "No hay un tiempo fijo para cada evaluación, ya que depende del estándar en cuestión. Las fichas descriptivas en ILCE y el catálogo del CONOCER ofrecen información detallada sobre la duración de cada estándar.",
+              "El tiempo necesario para una evaluación cambia dependiendo del estándar que se esté evaluando. Puede referirse a las fichas descriptivas en ILCE o al Registro Nacional de Estándares de Competencia (RENEC) en el sitio web de CONOCER para obtener información específica.",
+              "La duración de la evaluación no es constante y varía según el estándar. Para más detalles sobre un estándar específico, puede revisar las fichas descriptivas en ILCE o el catálogo general de CONOCER.",
+              "El tiempo que toma un proceso de evaluación no es estático y difiere con base en el estándar de competencia. Es posible obtener información detallada consultando las fichas descriptivas en ILCE o el RENEC en el sitio del CONOCER.",
+              "El proceso de evaluación tiene duraciones distintas según el estándar de competencia que se aborde. Para obtener un tiempo específico, se puede consultar las fichas descriptivas en el sitio web de ILCE o en el RENEC de CONOCER.",
+              "Cada evaluación tiene un tiempo diferente de duración, basado en el estándar correspondiente. Para información específica, es útil revisar las fichas descriptivas de ILCE o el Registro Nacional de Estándares de Competencia (RENEC) en CONOCER.",
+              "La duración de un proceso de evaluación varía dependiendo del estándar específico. Puedes obtener detalles consultando las fichas descriptivas en ILCE o en el sitio web del CONOCER bajo el RENEC.",
+              "La duración de un proceso de evaluación cambia dependiendo del estándar en cuestión. Para más información, puedes revisar las fichas descriptivas disponibles en ILCE o el catálogo RENEC en el sitio del CONOCER."
+            ]
+          },
+          {
+            "tag": "quien_realiza_evaluacion",
+            "patterns": [
+              "¿Quién realiza la Evaluación?",
+              "¿Quién está calificado para llevar a cabo la evaluación?",
+              "¿Quién puede efectuar la evaluación de competencias?",
+              "¿Qué persona está autorizada para realizar una evaluación?",
+              "¿Cuáles son los requisitos para ser evaluador?",
+              "¿Quién está certificado para efectuar la evaluación?",
+              "¿Bajo qué normas puede alguien realizar una evaluación?",
+              "¿Quiénes están habilitados para evaluar competencias?",
+              "¿Qué entidad regula a los evaluadores?",
+              "¿Cómo se certifica a un evaluador?"
+            ],
+            "responses": [
+              "Según la normatividad del CONOCER, sólo una persona certificada en el estándar de competencia en el que llevará a cabo la evaluación puede realizarla. Además, debe estar adscrito a alguna institución autorizada por el CONOCER. Los entes autorizados pertenecen a la Red de Prestadores de Servicio y pueden ser Entidades de Certificación y Evaluación, Organismos Certificadores y Centros de Evaluación.",
+              "Para efectuar una evaluación, se requiere que la persona esté certificada en el estándar de competencia correspondiente y en la metodología de evaluación del CONOCER. Además, debe pertenecer a alguna entidad aprobada por el CONOCER para realizar dichos procesos.",
+              "Sólo los individuos con doble certificación (en el estándar específico y en la metodología de evaluación del CONOCER) están habilitados para realizar la evaluación. Estos evaluadores también deben estar vinculados con una institución reconocida por el CONOCER.",
+              "La persona encargada de realizar la evaluación debe tener certificación en el estándar de competencia pertinente y en la metodología de evaluación del CONOCER. Además, tiene que estar afiliada a una entidad autorizada por el CONOCER.",
+              "Un evaluador debe poseer certificación en el estándar de competencia del tema a evaluar y en la metodología de evaluación del CONOCER. Es esencial que también esté vinculado con una institución aprobada por el CONOCER.",
+              "De acuerdo con las reglas del CONOCER, solamente una persona que ha obtenido la certificación en el estándar de competencia y en la metodología de evaluación del CONOCER puede llevar a cabo la evaluación, y debe estar asociada con una entidad autorizada por el CONOCER.",
+              "Los individuos certificados en el estándar de competencia relevante y en la metodología de evaluación del CONOCER son los únicos calificados para realizar la evaluación. También es fundamental que estén adscritos a una entidad aprobada por el CONOCER.",
+              "Bajo la normatividad del CONOCER, un evaluador necesita tener una doble certificación: en el estándar de competencia y en la metodología de evaluación del CONOCER. Además, debe estar asociado con una entidad reconocida por el CONOCER.",
+              "Una persona calificada para efectuar la evaluación debe tener las certificaciones pertinentes del estándar de competencia y de la metodología de evaluación del CONOCER. Es crucial que esté adscrito a una entidad avalada por el CONOCER.",
+              "Los evaluadores son individuos que poseen certificación en el estándar de competencia y en la metodología de evaluación del CONOCER. Deben estar vinculados a una institución que sea parte de la Red de Prestadores de Servicio aprobada por el CONOCER."
+            ]
+          },
+          {
+            "tag": "tiempo_certificado",
+            "patterns": [
+              "¿En cuánto tiempo recibo mi certificado?",
+              "¿Cuánto debo esperar para obtener mi certificado después de la evaluación?",
+              "¿Cuál es el tiempo estimado para la entrega del certificado post evaluación?",
+              "Después de la evaluación, ¿cuántos días tarda en llegar el certificado?",
+              "¿En qué plazo puedo esperar recibir el certificado después de la evaluación?",
+              "¿Dentro de cuántos días recibiré mi certificado tras finalizar la evaluación?",
+              "¿Qué duración tiene el proceso desde que termina la evaluación hasta que recibo el certificado?",
+              "Tras concluir mi evaluación, ¿en cuánto tiempo estará listo el certificado?",
+              "¿Hay un periodo establecido para recibir el certificado después de la evaluación?",
+              "¿Cuántos días aproximadamente pasan desde la evaluación hasta la entrega del certificado?"
+            ],
+            "responses": [
+              "Después de finalizar la evaluación, el evaluador revisa los resultados y emite un juicio de competencia. Si resultas ser COMPETENTE, se inicia el trámite para tu certificado. Generalmente, el proceso tarda unos 25 días desde que se solicita el certificado debido a la gestión con el CONOCER. Una vez listo, el evaluador se comunicará contigo. Mientras tanto, puedes usar la Cédula de Evaluación como comprobante.",
+              "Una vez concluida la evaluación, el evaluador determinará si eres COMPETENTE o no. Si es afirmativo, se procesará tu certificado, lo cual puede llevar alrededor de 25 días debido a los trámites con el CONOCER. Te notificarán cuando esté listo, pero puedes usar la Cédula de Evaluación como constancia en el interín.",
+              "Tras la evaluación, el evaluador analiza los resultados y si eres considerado COMPETENTE, se inicia el proceso para el certificado. Aproximadamente, el tiempo de espera es de 25 días debido a las gestiones con el CONOCER. Sin embargo, tienes la opción de utilizar la Cédula de Evaluación como prueba mientras esperas.",
+              "Al terminar tu evaluación, el evaluador revisará tus resultados y, si eres juzgado como COMPETENTE, comenzará el proceso de solicitud de certificado. Este proceso puede demorar cerca de 25 días debido a la administración con el CONOCER. Para comprobar que realizaste la evaluación, puedes recurrir a la Cédula de Evaluación.",
+              "Post evaluación, si eres determinado COMPETENTE, el trámite de tu certificado se activa. Usualmente, se debe esperar un periodo de 25 días para recibirlo, debido a los procedimientos con el CONOCER. Durante ese tiempo, puedes hacer uso de la Cédula de Evaluación como evidencia de tu evaluación.",
+              "Una vez finalizada la evaluación, el evaluador evalúa tus resultados y, dependiendo de si eres COMPETENTE, procederá a solicitar tu certificado. Típicamente, el tiempo estimado es de 25 días, considerando las gestiones con el CONOCER. Para confirmar que pasaste la evaluación, puedes presentar la Cédula de Evaluación firmada por el evaluador.",
+              "Después de que el evaluador concluye la evaluación, tomará un breve tiempo para revisar y, si eres juzgado como COMPETENTE, iniciará la solicitud de tu certificado. Se requieren aproximadamente 25 días para este proceso debido a los trámites con el CONOCER. Entretanto, la Cédula de Evaluación puede servir como constancia.",
+              "Una vez evaluado, si el resultado es COMPETENTE, el evaluador iniciará los trámites para tu certificado. El proceso suele demorar alrededor de 25 días por la gestión ante el CONOCER. Mientras esperas, la Cédula de Evaluación puede actuar como una prueba temporal de tu evaluación.",
+              "Posterior a la evaluación, si se determina que eres COMPETENTE, el trámite para el certificado se inicia. Este procedimiento, debido a la coordinación con el CONOCER, puede llevar cerca de 25 días. Sin embargo, como constancia previa, puedes utilizar la Cédula de Evaluación.",
+              "Después de tu evaluación, el evaluador verifica tus resultados y si eres considerado COMPETENTE, comenzará a tramitar tu certificado. En general, este trámite con el CONOCER toma unos 25 días. Mientras tanto, puedes utilizar la Cédula de Evaluación como evidencia."
+            ]
+          },
+          {
+            "tag": "intentos_diagnostico",
+            "patterns": [
+              "¿Cuántas veces puedo realizar el diagnóstico?",
+              "¿Existe un límite de intentos para hacer el diagnóstico?",
+              "¿Puedo repetir el diagnóstico si no obtengo la calificación mínima?",
+              "Si no alcanzo el puntaje requerido, ¿puedo intentar el diagnóstico de nuevo?",
+              "¿Hay alguna restricción en la cantidad de veces que puedo tomar el diagnóstico?",
+              "¿Es posible hacer el diagnóstico varias veces?",
+              "Si no paso el diagnóstico, ¿tengo otra oportunidad para hacerlo?",
+              "¿Me permiten reintentar el diagnóstico si no logro la calificación requerida?",
+              "En caso de no obtener un 8 en el diagnóstico, ¿puedo retomarlo?",
+              "¿Se me permite realizar el diagnóstico más de una vez?"
+            ],
+            "responses": [
+              "El CONOCER establece que las personas deben realizar un diagnóstico previo al proceso de evaluación. Si obtienes menos de 8, puedes optar por continuar con la evaluación o mejorar tus habilidades basado en las recomendaciones del evaluador. Si decides prepararte más, puedes solicitar otro diagnóstico cuando te sientas listo.",
+              "Previo a la evaluación, el CONOCER exige hacer un diagnóstico. Si tu puntaje es inferior a 8, tienes la elección de seguir adelante con la evaluación o enfocarte en las áreas señaladas por el evaluador. Una vez que te hayas preparado adecuadamente, puedes pedir realizar el diagnóstico nuevamente.",
+              "Antes de la evaluación, es necesario realizar un diagnóstico como requisito del CONOCER. Si tu calificación es menor a 8, puedes decidir proseguir o mejorar tus competencias según las indicaciones del evaluador. En caso de mejorar, podrás solicitar una nueva oportunidad para el diagnóstico.",
+              "El CONOCER exige que se haga un diagnóstico previo a cualquier evaluación. Si no alcanzas la calificación de 8, puedes elegir entre continuar o perfeccionarte con base en las recomendaciones del evaluador. Si optas por prepararte más, tienes la opción de retomar el diagnóstico.",
+              "Como parte de las directrices del CONOCER, se debe realizar un diagnóstico antes de iniciar la evaluación. Si tu resultado es menor a 8, tienes la libertad de avanzar con la evaluación o seguir las sugerencias del evaluador para mejorar. Posteriormente, podrás pedir realizar nuevamente el diagnóstico.",
+              "El CONOCER requiere que hagas un diagnóstico antes del proceso evaluativo. Si tu puntuación es menos de 8, puedes seguir con la evaluación o atender las áreas de mejora sugeridas por el evaluador. Cuando estés listo, podrás solicitar hacer el diagnóstico otra vez.",
+              "Es un requisito del CONOCER hacer un diagnóstico antes de la evaluación. Si no obtienes al menos un 8, puedes decidir si quieres seguir con la evaluación o prepararte más siguiendo las indicaciones del evaluador. Después, si lo consideras, puedes solicitar repetir el diagnóstico.",
+              "Antes de proceder con la evaluación, el CONOCER estipula hacer un diagnóstico. En caso de que tu calificación no alcance el 8, puedes continuar con la evaluación o decidir mejorar con base en las sugerencias del evaluador. Una vez preparado, tienes la opción de solicitar el diagnóstico de nuevo.",
+              "El CONOCER indica que antes de una evaluación se debe hacer un diagnóstico. Si tu calificación es inferior a 8, puedes optar por avanzar en la evaluación o seguir las recomendaciones del evaluador para fortalecerte. Posteriormente, si lo decides, podrás pedir hacer el diagnóstico nuevamente.",
+              "Como parte del proceso del CONOCER, es obligatorio realizar un diagnóstico inicial. Si tu resultado es por debajo de 8, tienes la alternativa de continuar o decidir capacitarte más según las orientaciones del evaluador. Una vez listo, puedes pedir tomar el diagnóstico otra vez."
+            ]
+          },
+          {
+            "tag": "tipo_certificado",
+            "patterns": [
+              "¿Qué tipo de certificado se entrega?",
+              "¿Cómo es el certificado que se otorga a quienes resultan competentes?",
+              "¿Quién emite el certificado de competencia?",
+              "¿Qué validez tiene el certificado otorgado?",
+              "¿El certificado que recibo es aceptado internacionalmente?",
+              "¿El certificado proporcionado tiene algún valor curricular?",
+              "¿Cuál es la entidad encargada de emitir el certificado de competencia?",
+              "¿Qué características tiene el certificado que se entrega?",
+              "Si resulto competente, ¿qué certificado obtendré?",
+              "¿Cuál es el reconocimiento del certificado entregado?"
+            ],
+            "responses": [
+              "El certificado otorgado a quienes demuestran ser competentes es expedido por la Secretaría de Educación Pública de México a través del CONOCER. Posee una validez oficial y, gracias a acuerdos comerciales, es reconocido en varios países. Además, con el acuerdo 286, el certificado tiene un valor curricular, permitiendo sumar créditos académicos.",
+              "El certificado que recibes al ser declarado competente es emitido por la Secretaría de Educación Pública mexicana mediante el CONOCER. Este documento es oficial y es reconocido internacionalmente debido a convenios comerciales. Adicionalmente, con el acuerdo 286, se le atribuye un valor curricular para agregar créditos en tu educación.",
+              "Aquellos que prueban su competencia reciben un certificado de la Secretaría de Educación Pública de México, entregado por el CONOCER. Este tiene un reconocimiento oficial y, debido a tratados comerciales, es aceptado en otros países. Adicionalmente, puede ser usado para obtener créditos académicos, conforme al acuerdo 286.",
+              "Al demostrar competencia, se te otorga un certificado expedido por la Secretaría de Educación Pública de México a través del CONOCER. Este certificado tiene un carácter oficial y es aceptado en múltiples países gracias a acuerdos comerciales. Además, puedes añadir créditos académicos con él, de acuerdo con el pacto 286.",
+              "El certificado que se proporciona a los individuos competentes proviene de la Secretaría de Educación Pública de México, mediante el CONOCER. Este documento posee un carácter oficial y, por convenios comerciales, es válido en diversas naciones. Sumado a esto, el acuerdo 286 le confiere un valor curricular, permitiendo sumar créditos a tu educación.",
+              "El CONOCER, a través de la Secretaría de Educación Pública de México, emite el certificado para aquellos que son competentes. Este tiene una validez oficial y, gracias a tratados internacionales, es reconocido en otros países. Adicionalmente, el acuerdo 286 le otorga un valor curricular, lo que te permite añadir créditos para tus estudios.",
+              "El certificado que se te concede al ser competente es proporcionado por la Secretaría de Educación Pública de México, a través del CONOCER. Goza de validez oficial y, por acuerdos internacionales, es aceptado en varios países. Asimismo, gracias al acuerdo 286, puedes usarlo para obtener créditos académicos.",
+              "El certificado otorgado a las personas competentes es una emisión de la Secretaría de Educación Pública de México, realizada por el CONOCER. Este documento es oficialmente reconocido y, por acuerdos comerciales, tiene validez en otros países. Además, con el acuerdo 286, puede ser considerado para obtener créditos en la educación.",
+              "A quienes logran demostrar competencia, se les entrega un certificado de la Secretaría de Educación Pública de México, por medio del CONOCER. Este certificado tiene validez oficial y, debido a acuerdos comerciales, es aceptado en otros países. Además, el acuerdo 286 le otorga un valor curricular, facilitando agregar créditos en estudios posteriores.",
+              "Si pruebas ser competente, recibirás un certificado emitido por la Secretaría de Educación Pública de México a través del CONOCER. Este documento cuenta con reconocimiento oficial y, a causa de acuerdos comerciales, es válido internacionalmente. Además, puede ser utilizado para sumar créditos académicos, conforme al acuerdo 286."
+            ]
+          },
+          {
+            "tag": "beneficios_certificacion",
+            "patterns": [
+              "¿Qué beneficios obtengo con una certificación de competencias laborales?",
+              "¿Cuáles son las ventajas de tener una certificación de competencias laborales?",
+              "¿Por qué debería obtener una certificación de competencias en el trabajo?",
+              "¿Qué me aporta una certificación laboral de competencias?",
+              "¿Qué valor tiene certificarme en competencias laborales?",
+              "¿Cuál es el impacto de poseer una certificación de competencias profesionales?",
+              "¿Qué significa tener una certificación de competencias en mi ámbito laboral?",
+              "¿Cómo me beneficia tener un certificado de competencias?",
+              "¿Qué ganancias me proporciona una certificación de competencias en el trabajo?",
+              "¿Qué reconocimientos puedo obtener al certificarme en competencias laborales?"
+            ],
+            "responses": [
+              "Obtener una certificación de competencias laborales te brinda un reconocimiento oficial de las habilidades y conocimientos que has adquirido a través de tu experiencia laboral. No es necesario tener títulos académicos para certificarte; simplemente es crucial demostrar tu capacidad práctica en el área de tu especialidad.",
+              "La certificación de competencias laborales reconoce oficialmente tus habilidades adquiridas en el ámbito laboral. No necesitas diplomas o grados académicos; lo esencial es que tengas la experiencia y habilidad en lo que buscas certificarte, ya sea en tutoría en línea, elaboración de proyectos, cuidado de niños, entre otros.",
+              "Una certificación de competencias laborales valida tus habilidades y el conocimiento adquirido en tu experiencia de trabajo. No se precisan títulos formales, basta con que muestres competencia en la práctica de lo que deseas certificar, ya sea tutoría, cuidado infantil, gestión de proyectos, etc.",
+              "Certificarte en competencias laborales te brinda un aval oficial sobre las destrezas y conocimientos obtenidos durante tu trayectoria profesional. No es esencial poseer títulos académicos; solo necesitas demostrar tu experiencia en el área en la que deseas obtener tu certificación.",
+              "Poseer una certificación laboral de competencias significa tener un respaldo oficial que acredita tus habilidades y experiencias laborales. No requieres de grados o diplomas; lo importante es tu capacidad para demostrar prácticamente lo que sabes hacer en tu campo profesional.",
+              "La certificación de competencias laborales te proporciona un reconocimiento formal de las destrezas y capacidades que has desarrollado en tu vida laboral. No es imprescindible tener títulos académicos; simplemente debes contar con la experiencia y habilidad en el área que quieres certificar.",
+              "Al obtener una certificación de competencias laborales, recibes un reconocimiento oficial de tus habilidades prácticas en el ámbito laboral. No necesitas diplomas; lo crucial es tener la experiencia en la especialidad que quieres certificar, ya sea como tutor, gestor de proyectos, cuidador, entre otros.",
+              "Con una certificación de competencias laborales, consigues un reconocimiento oficial que avala tu experiencia y habilidades en el trabajo. No se requieren títulos académicos; lo que importa es tu capacidad para demostrar tus competencias en la práctica profesional.",
+              "Tener una certificación de competencias laborales te da un sello oficial de las habilidades y conocimientos que has logrado a lo largo de tu carrera. No es necesario contar con títulos o diplomas; basta con que puedas demostrar tus habilidades en la especialidad que buscas certificar.",
+              "Una certificación de competencias laborales es un reconocimiento oficial de lo que has aprendido en tu trayectoria laboral. Sin necesidad de diplomas o títulos, puedes obtenerla siempre que demuestres tus habilidades prácticas en la especialidad que desees certificar."
+            ]
+          },
+          {
+            "tag": "capacitacion_ILCE",
+            "patterns": [
+              "¿El ILCE ofrece cursos de capacitación para la certificación?",
+              "¿Existen asesorías del ILCE para prepararse para la certificación?",
+              "¿Ofrece el ILCE algún tipo de preparación para la evaluación de certificación?",
+              "¿El ILCE provee apoyo educativo para quienes desean certificarse?",
+              "¿Hay formación disponible en el ILCE para aquellos que buscan la certificación?",
+              "¿Cómo se prepara el ILCE a los candidatos para la evaluación de certificación?",
+              "¿El ILCE brinda asistencia para quienes aspiran a obtener una certificación?",
+              "¿Se pueden obtener asesorías del ILCE antes de intentar certificarse?",
+              "¿El ILCE tiene algún programa de formación para quienes desean certificarse?",
+              "¿Cuál es la oferta educativa del ILCE para quienes buscan certificarse?"
+            ],
+            "responses": [
+              "El ILCE, en este momento, proporciona asesorías de 10 horas mediante videoconferencia para ayudar a los candidatos a prepararse para la evaluación. Es crucial que los aspirantes ya tengan experiencia en la competencia que desean certificar, ya que la asesoría es un apoyo para familiarizarse con el estándar, la metodología de evaluación y los criterios requeridos, garantizando así una mayor probabilidad de éxito en el proceso.",
+              "Actualmente, el ILCE ofrece asesorías de 10 horas a través de videoconferencia para quienes buscan prepararse para la evaluación de certificación. Es esencial que los interesados tengan experiencia previa en el área donde buscan certificarse, ya que la asesoría se centra en detallar el estándar y la metodología de la evaluación para maximizar las posibilidades de éxito.",
+              "El ILCE brinda, en la actualidad, asesorías de 10 horas por videoconferencia dirigidas a candidatos que desean prepararse para la evaluación. Es importante que los candidatos posean experiencia en la competencia que buscan certificar, ya que la asesoría pretende reforzar y clarificar el estándar, la metodología de evaluación y los criterios relevantes para la evaluación.",
+              "En el presente, el ILCE tiene un programa de asesorías de 10 horas vía videoconferencia, destinado a apoyar a los aspirantes en su preparación para la evaluación. Se espera que los interesados ya tengan experiencia en la competencia para la que desean certificarse, dado que la asesoría se orienta a proporcionar detalles del estándar, la metodología y los criterios de evaluación.",
+              "El ILCE ofrece, para los interesados en certificarse, asesorías de 10 horas por videoconferencia para ayudar en la preparación de la evaluación. Es esencial que los aspirantes cuenten con experiencia en la competencia que buscan certificar. La asesoría se centra en ayudar a comprender el estándar, la metodología de evaluación y los criterios relevantes para el proceso.",
+              "Para aquellos que buscan certificarse, el ILCE propone asesorías de 10 horas a través de videoconferencia. Estas asesorías están destinadas a preparar a los candidatos para la evaluación, pero es vital que ya tengan experiencia en la competencia en la que buscan certificarse, para garantizar un entendimiento adecuado del estándar y la metodología de evaluación.",
+              "El ILCE tiene un programa de asesorías de 10 horas por videoconferencia diseñado para apoyar a los candidatos en su preparación para la evaluación de certificación. Sin embargo, es fundamental que los candidatos ya posean experiencia en la competencia específica en la que desean certificarse para beneficiarse adecuadamente de esta asesoría.",
+              "El ILCE, en su esfuerzo por apoyar a los candidatos, ofrece asesorías de 10 horas vía videoconferencia, dirigidas a aquellos que desean prepararse para la evaluación de certificación. Es esencial que los aspirantes ya cuenten con experiencia en la competencia en cuestión, ya que la asesoría busca reforzar y aclarar los aspectos relacionados con el estándar y la metodología de evaluación.",
+              "Aquellos que desean certificarse pueden beneficiarse de las asesorías de 10 horas ofrecidas por el ILCE a través de videoconferencia. Es crucial que los interesados ya tengan experiencia en el área de competencia en la que desean certificarse, ya que la asesoría se enfoca en detallar el estándar, la metodología y los criterios esenciales para la evaluación.",
+              "El ILCE brinda asesorías de 10 horas por videoconferencia como apoyo para los candidatos que buscan prepararse para la evaluación de certificación. Es importante que los candidatos ya tengan experiencia en la competencia específica en la que buscan certificarse, ya que la asesoría proporciona información detallada sobre el estándar, la metodología y los criterios relevantes."
+            ]
+          }        
+    ]
+}
